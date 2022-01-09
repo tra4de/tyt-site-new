@@ -1,0 +1,245 @@
+@media (min-width: 831px) {
+  .logo__midle {
+    display: none;
+  }
+}
+@media (max-width: 830px) {
+  .withdraw, .draw {
+    font-size: 17px;
+  }
+
+  .draw {
+    padding: 4.75px 11.5px 5.75px 11.5px;
+  }
+
+  .withdraw {
+    padding: 3.75px 7.5px 4.75px 8.5px;
+  }
+
+  .balans {
+    font-size: 19px;
+  }
+
+  .fair-game,
+.faq,
+.support {
+    font-size: 16px;
+  }
+
+  .online {
+    font-size: 16px;
+  }
+
+  .logo__small {
+    display: none;
+  }
+}
+@media (max-width: 750px) {
+  .wrap__online {
+    display: none;
+  }
+}
+@media (max-width: 701px) {
+  .header__inner {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .navbar__menu {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+  .logo__style {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding-bottom: 3.75px;
+  }
+
+  .navbar__pay {
+    display: none;
+  }
+
+  .navbar__menu-wrap {
+    display: none;
+  }
+
+  .navbar__pay-media {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding: 6.75px 0 6px 0;
+  }
+
+  .wrap__menu-media {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .wrap__pay-media {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+
+  .logo__big {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .logo__small {
+    display: none;
+  }
+
+  .fair-game,
+.faq,
+.support {
+    font-size: 20px;
+    padding-bottom: 12px;
+  }
+
+  .withdraw,
+.draw {
+    font-size: 21px;
+  }
+
+  .user__account {
+    width: 35px;
+    height: 35px;
+  }
+
+  .balans {
+    font-size: 24px;
+  }
+
+  .mode-menu > li > a {
+    font-size: 21px;
+  }
+
+  .fair-game:before,
+.faq:before,
+.support:before {
+    height: 2.1px;
+  }
+
+  .main__title-mode {
+    font-size: 28px;
+  }
+
+  .withdraw {
+    margin-right: 2.5px;
+    padding: 2.75px 7.5px 5.75px 8.5px;
+  }
+
+  .draw {
+    margin: 0 6px 0 2.5px;
+    padding: 3.75px 11.5px 6.75px 11.5px;
+  }
+
+  .logo__midle {
+    display: none;
+  }
+}
+@media (min-width: 702px) {
+  .navbar__pay-media {
+    display: none;
+  }
+}
+@media (max-width: 670px) {
+  .navbar__pay-media {
+    display: none;
+  }
+
+  .navbar__pay {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 8px;
+  }
+
+  .navbar__menu-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .header__inner {
+    padding-bottom: 9px;
+  }
+
+  .fair-game,
+.faq,
+.support {
+    padding: 5.5px 0 7px 0;
+    font-size: 23px;
+  }
+
+  .logo__style {
+    padding-bottom: 5.75px;
+  }
+
+  .user__account {
+    width: 37px;
+    height: 37px;
+  }
+
+  .withdraw,
+.draw {
+    font-size: 25px;
+  }
+
+  .balans {
+    font-size: 26px;
+    padding-left: 32px;
+  }
+
+  .mode-menu {
+    display: block;
+    padding: 11px 0;
+  }
+
+  .mode-menu > li > a {
+    max-width: 100%;
+    font-size: 28px;
+    min-height: 70px;
+  }
+
+  .mode-menu > li {
+    width: inherit;
+    margin: 11px 15px;
+  }
+
+  .wrap__jackpot {
+    margin-top: inherit !important;
+  }
+
+  .wrap__roulette {
+    margin-bottom: inherit !important;
+  }
+}
+@media (max-width: 460px) {
+  .container {
+    padding: 0;
+  }
+}
+@media (max-width: 380px) {
+  .link-rights {
+    display: block;
+  }
+}
